@@ -17,5 +17,5 @@ To run Cypress in headless mode, use the following command:
 This command will execute tests without opening the graphical interface, speeding up the testing process and allowing tests to run in environments where a GUI is not available.
 
 ## Documentation:
-- **[hotkeys.md](https://vscode.dev/github/karyna-kar/Cypress_JS/blob/feauture/project-setup/docs/git-strategy.md)** - Visual Studio Code Hotkeys
-- **[git-strategy.md](https://vscode.dev/github/karyna-kar/Cypress_JS/blob/feauture/project-setup/docs/git-strategy.md)** - Git Branching Strategy
+- **[hotkeys.md](https://github.com/karyna-kar/Cypress_JS/blob/feauture/project-setup/docs/hotkeys.md)** - Visual Studio Code Hotkeys
+- **[git-strategy.md](https://github.com/karyna-kar/Cypress_JS/blob/feauture/project-setup/docs/git-strategy.md)** - Git Branching Strategy
