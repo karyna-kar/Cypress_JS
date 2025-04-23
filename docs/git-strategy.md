@@ -32,7 +32,7 @@
      - Pull the latest changes from `main`: `git pull origin main`
      - Resolve any merge conflicts locally, if needed.
 
-5. **Cleaning Up (optional - needed for larger projects)**
+5. **Cleaning Up**
    - After a successful merge:
      - Delete the feature branch locally: `git branch -d feature/<developer-name>/<feature-name>`
      - Delete the branch on the remote repository: `git push origin --delete feature/<developer-name>/<feature-name>`
